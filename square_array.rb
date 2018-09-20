@@ -4,6 +4,5 @@ def square_array(array)
     array[counter] = entry**2 
     counter += 1
   end
-  
   #array.collect{|entry| entry**2}
 end
